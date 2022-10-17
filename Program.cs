@@ -14,14 +14,15 @@ int NewAnswer = 0;
 while(answer != "end"){
 Console.WriteLine("Goodmorning, what's your name?");
 string response = Console.ReadLine();
-Troof1 = Int32.TryParse(answer, out NewAnswer);
+Troof1 = Int32.TryParse(response, out NewAnswer);
 
 if (Troof1 == true){ Console.WriteLine("Those are just numbers! don't lie to me!!");}
-else{
+else
+{
 Console.WriteLine($"{response}? Wow what a mysterious name!! What time did you wake up?");
 string response1 = Console.ReadLine();
 
-Console.WriteLine($"{response1} wow I woke up about 10 minutes after {response1}");
+Console.WriteLine($"{response1} wow I woke up about 10 minutes after you!");
 }
 Console.WriteLine("Type End to Terminate the program or press enter to replay.");
 answer = Console.ReadLine().ToLower();

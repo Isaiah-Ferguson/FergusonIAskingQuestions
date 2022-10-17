@@ -1,0 +1,15 @@
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\bin\Debug\net6.0\IKFergusonAskingQuestions.exe
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\bin\Debug\net6.0\IKFergusonAskingQuestions.deps.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\bin\Debug\net6.0\IKFergusonAskingQuestions.runtimeconfig.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\bin\Debug\net6.0\IKFergusonAskingQuestions.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\bin\Debug\net6.0\IKFergusonAskingQuestions.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\IKFergusonAskingQuestions.csproj.AssemblyReference.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\IKFergusonAskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\IKFergusonAskingQuestions.AssemblyInfoInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\IKFergusonAskingQuestions.AssemblyInfo.cs
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\IKFergusonAskingQuestions.csproj.CoreCompileInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\IKFergusonAskingQuestions.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\refint\IKFergusonAskingQuestions.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\IKFergusonAskingQuestions.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\IKFergusonAskingQuestions.genruntimeconfig.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonAskingQuestions\obj\Debug\net6.0\ref\IKFergusonAskingQuestions.dll
