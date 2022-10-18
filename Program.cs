@@ -1,7 +1,8 @@
 ﻿//Isaiah Keith Ferguson
 //10/17/2022
-//Mini Challenge 3
 //asking questions
+// Asking the user their name and what time they woke up. must use data validation
+//Peer Reviewed by:
 
 
 Console.Clear();
