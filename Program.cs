@@ -1,7 +1,7 @@
 ﻿//Isaiah Keith Ferguson
-//10/17/2022
-//asking questions
-// Asking the user their name and what time they woke up. must use data validation
+//10/18/2022
+//Asking questions
+//Asking the user their name and what time they woke up. must use data validation
 //Peer Reviewed by:
 
 
@@ -9,7 +9,6 @@ Console.Clear();
 
 string answer = "";
 bool Troof1 = true;
-bool Troof2 = true;
 int NewAnswer = 0;
 
 while(answer != "end"){
